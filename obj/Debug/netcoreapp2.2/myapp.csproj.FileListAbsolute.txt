@@ -1,0 +1,11 @@
+/home/marco/docker-working2/app/bin/Debug/netcoreapp2.2/myapp.deps.json
+/home/marco/docker-working2/app/bin/Debug/netcoreapp2.2/myapp.runtimeconfig.json
+/home/marco/docker-working2/app/bin/Debug/netcoreapp2.2/myapp.runtimeconfig.dev.json
+/home/marco/docker-working2/app/bin/Debug/netcoreapp2.2/myapp.dll
+/home/marco/docker-working2/app/bin/Debug/netcoreapp2.2/myapp.pdb
+/home/marco/docker-working2/app/obj/Debug/netcoreapp2.2/myapp.csprojAssemblyReference.cache
+/home/marco/docker-working2/app/obj/Debug/netcoreapp2.2/myapp.csproj.CoreCompileInputs.cache
+/home/marco/docker-working2/app/obj/Debug/netcoreapp2.2/myapp.AssemblyInfoInputs.cache
+/home/marco/docker-working2/app/obj/Debug/netcoreapp2.2/myapp.AssemblyInfo.cs
+/home/marco/docker-working2/app/obj/Debug/netcoreapp2.2/myapp.dll
+/home/marco/docker-working2/app/obj/Debug/netcoreapp2.2/myapp.pdb
